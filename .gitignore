@@ -1,0 +1,6 @@
+# ignore temp_files
+*.html
+*.csv
+
+# ignore ipython checkpoints
+.ipynb_checkpoints/
