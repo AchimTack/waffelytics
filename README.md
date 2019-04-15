@@ -1,1 +1,1 @@
-# waffle_analytics
+# waffelytics - waffle analytics
